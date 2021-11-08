@@ -1,4 +1,5 @@
 Personnal pronouns :
+
 I = Jeg [yaille]
 You (singular) = Du
 He = Han
@@ -11,6 +12,7 @@ They = De [di]
 Not = Ikke
 
 basic verbs (infinitive + conjugated (doesn't change wether it's I or they or whatever)) :
+
 To be = å vær, er
 To have = å ha, har
 To eat = å spise, spiser
@@ -19,6 +21,7 @@ To do = å gjør, gjøre
 To see = å se, ser
 
 basic words :
+
 A = en,ei,et (ei is usually replaced by en)
 The = you add the indefinite pronoun at the end of the word
 A man = En mann
@@ -30,6 +33,7 @@ The girl = Jenta
 A child = Et barn
 
 plural :
+
 For every words, no exceptions (well some but it's men and children so who cares), it's the same ==> that is, 
 Indefinite : you add "er" at the end of the word
 Definite : you add "ene" at the end of the word
