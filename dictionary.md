@@ -1,6 +1,7 @@
 - Personnal pronouns :
 
 I = Jeg [yaille];
+
 You (singular) = Du;
 He = Han;
 She = Hun;
