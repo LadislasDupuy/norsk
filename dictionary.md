@@ -31,6 +31,8 @@
 - !! when you have a feminine noun that ends with "e" the definite form is usualy with an "a". For instance :
 - The girl = Jenta;
 - A child = Et barn;
+- Here = her [har];
+- There = der [dar];
 
 # Plural :
 
