@@ -1,4 +1,4 @@
-## Personnal pronouns :
+# Personnal pronouns :
 
 - I = Jeg [yaille];
 - You (singular) = Du;
@@ -9,9 +9,9 @@
 - You (plural) = Dere;
 - They = De [di];
 
-# Not = Ikke
+## Not = Ikke
 
-## basic verbs (infinitive + conjugated (doesn't change wether it's I or they or whatever)) :
+# Basic verbs (infinitive + conjugated (doesn't change wether it's I or they or whatever)) :
 
 - To be = å vær, er;
 - To have = å ha, har;
@@ -20,7 +20,7 @@
 - To do = å gjør, gjøre;
 - To see = å se, ser;
 
-## basic words :
+# Basic words :
 
 - A = en,ei,et (ei is usually replaced by en);
 - The = you add the indefinite pronoun at the end of the word;
@@ -32,14 +32,14 @@
 - The girl = Jenta;
 - A child = Et barn;
 
-## plural :
+# Plural :
 
 For every words, no exceptions (well some but it's men and children so who cares), it's the same ==> that is, 
 
 - Indefinite : you add "er" at the end of the word;
 - Definite : you add "ene" at the end of the word;
 
-# Examples : 
+## Examples : 
 
 - Men : Menn;
 - The men : Mennene;
