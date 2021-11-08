@@ -9,7 +9,10 @@
 - You (plural) = Dere;
 - They = De [di];
 
-## Not = Ikke
+## Yes/No/Not :
+- Not = Ikke
+- Yes = Ja [yo/ya]
+- No = Nei [Naille]
 
 # Basic verbs (infinitive + conjugated (doesn't change wether it's I or they or whatever)) :
 
